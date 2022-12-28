@@ -12,7 +12,7 @@ Python course at CMC MSU
 | [Sets and Dictionaries](https://github.com/MariaMayy/PythonIntro2022/tree/main/06_Sets_and_Dictionaries) | tasks from lection 6 | 
 | [Iterators](https://github.com/MariaMayy/PythonIntro2022/tree/main/07_Iterators) | tasks from lection 7 | 
 | [OOP](https://github.com/MariaMayy/PythonIntro2022/tree/main/08_OOP) | tasks from lection 8 | 
-| [Inheritance_and_Exceptions](https://github.com/MariaMayy/PythonIntro2022/tree/main/09_Inheritance_and_Exceptions) | tasks from lection 9 | 
-| [Slots Decscriptors Decorators](https://github.com/MariaMayy/PythonIntro2022/tree/main/10_Slots_Decscriptors_Decorators) | tasks from lection 10 | 
+| [Inheritance and Exceptions](https://github.com/MariaMayy/PythonIntro2022/tree/main/09_Inheritance_and_Exceptions) | tasks from lection 9 | 
+| [Slots, decscriptors, decorators](https://github.com/MariaMayy/PythonIntro2022/tree/main/10_Slots_Decscriptors_Decorators) | tasks from lection 10 | 
 | [Files](https://github.com/MariaMayy/PythonIntro2022/tree/main/11_Files) | tasks from lection 11 | 
 | [Metaclass and Annotations](https://github.com/MariaMayy/PythonIntro2022/tree/main/12_Metaclass_and_Annotations) | tasks from lection 12 | 
